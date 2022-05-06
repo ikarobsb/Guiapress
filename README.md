@@ -5,4 +5,3 @@ The application has features to access the articles registered by categories, ac
 
 *The project was the result of participation in the NodeJS training course on the Udemy platform.*
 
-It is still an ongoing project. 
